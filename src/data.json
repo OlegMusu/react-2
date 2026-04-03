@@ -1,0 +1,9 @@
+{
+  "name": "Іван",
+  "age": 25,
+  "city": "Київ",
+  "email": "ivan@example.com",
+  "isStudent": true,
+  "skills": ["JavaScript", "Python", "SQL"],
+  "createdAt": "2026-03-29"
+}
