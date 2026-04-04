@@ -1,9 +1,9 @@
 {
-  "name": "React-2",
+  "name": "react-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://OlegMusu.github.io/React-2",
+  "homepage": "https://OlegMusu.github.io/react-2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
